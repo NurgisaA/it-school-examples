@@ -1,6 +1,8 @@
 <?php
 
 // https://metanit.com/php/tutorial/2.3.php
+// https://www.php.net/manual/ru/ref.var.php
+
 $arrayVar = [1, 2, 3];
 $floatVar = 3.14;
 
